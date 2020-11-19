@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Punto2Dimensioni", "Punto2Dimensioni\Punto2Dimensioni.csproj", "{EA4F788E-60F8-4DF7-BFB0-9CEB46B3B69B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Punto3Dimensioni", "Punto3Dimensioni\Punto3Dimensioni.csproj", "{1FC1A774-C29A-4E79-8DFE-22A6A13BB406}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA4F788E-60F8-4DF7-BFB0-9CEB46B3B69B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA4F788E-60F8-4DF7-BFB0-9CEB46B3B69B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA4F788E-60F8-4DF7-BFB0-9CEB46B3B69B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA4F788E-60F8-4DF7-BFB0-9CEB46B3B69B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FC1A774-C29A-4E79-8DFE-22A6A13BB406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FC1A774-C29A-4E79-8DFE-22A6A13BB406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FC1A774-C29A-4E79-8DFE-22A6A13BB406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FC1A774-C29A-4E79-8DFE-22A6A13BB406}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01034CA3-1039-4CF2-AA94-E2B704BDCC9F}
+	EndGlobalSection
+EndGlobal
