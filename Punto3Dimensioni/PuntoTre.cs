@@ -13,7 +13,7 @@ namespace Punto3Dimensioni
 
         public PuntoTre(double x, double y, double z) : base(x, y)
         {
-            Z = z;
+            Z = z; 
         }
     }
 }
